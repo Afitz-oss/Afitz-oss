@@ -1,4 +1,3 @@
-Akim Fitzgerald – Data Science Portfolio
 Welcome to my GitHub portfolio! This repository showcases my passion and expertise in data science, AI, economic analysis, and applied machine learning. My work, as reflected in my writings and projects, is driven by a commitment to uncovering insights that shape industries, inform policies, and solve real-world problems.
 
 About Me
